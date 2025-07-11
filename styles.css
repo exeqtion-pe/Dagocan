@@ -5,7 +5,7 @@
             --dorado-oscuro: #B8860B;
             --marron: #8B4513;
             --marron-claro: #A0522D;
-            --crema: #FFF8DC;
+            --crema: #eeece6;
             --blanco: #FFFFFF;
             --negro: #333333;
             --sombra: rgba(0,0,0,0.1);
@@ -1270,7 +1270,7 @@ header {
 
         /* BENEFITS */
         .benefits {
-            background: linear-gradient(135deg, #4b3304 0%, #636433 100%);
+            background: linear-gradient(135deg, #ccae72 0%, #d0d375 100%);
             color: var(--blanco);
             position: relative;
         }
@@ -1383,7 +1383,8 @@ header {
         }
 
         .author-info p {
-            color: var(--dorado);
+            color: #be9a17;
+            /* font-size: 15px; */
         }
 
         /* CTA */
